@@ -257,4 +257,4 @@ class Send:
         except KeyboardInterrupt:
             return False, "keyboard"
         except Exception as e:
-            return False, e # https://t.me/orion_bomber
+            return False, e # https://github.com/hyperllo/hellyt
