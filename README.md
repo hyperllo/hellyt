@@ -1,6 +1,6 @@
 # 🌐Установка
 + #### **Termux (Android):**
-  + `Установить` [**`Termux`**]
+  + `Установить` **`Termux`**
   + `pkg upgrade -y`
   + `pkg update -y`
   + `pkg install git`
