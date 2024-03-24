@@ -1,6 +1,6 @@
 # 🌐Установка
 + #### **Termux (Android):**
-  + `Установить` [**`Termux`**](https://t.me/orion_bomber/5)
+  + `Установить` [**`Termux`**]
   + `pkg upgrade -y`
   + `pkg update -y`
   + `pkg install git`
